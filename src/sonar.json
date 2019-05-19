@@ -1,0 +1,51 @@
+[{
+  "id": 30,
+  "severity": "minor",
+  "status": "ante",
+  "asignee": "Snir Dahan"
+}, {
+  "id": 53,
+  "severity": "minor",
+  "status": "et",
+  "asignee": "Snir Dahan"
+}, {
+  "id": 21,
+  "severity": "critical",
+  "status": "a",
+  "asignee": "Sivan Cohen"
+}, {
+  "id": 56,
+  "severity": "major",
+  "status": "sit",
+  "asignee": "Snir Dahan"
+}, {
+  "id": 55,
+  "severity": "blocker",
+  "status": "aliquam",
+  "asignee": "Snir Dahan"
+}, {
+  "id": 94,
+  "severity": "minor",
+  "status": "consequat",
+  "asignee": "Alex Nekrasov"
+}, {
+  "id": 55,
+  "severity": "minor",
+  "status": "rutrum",
+  "asignee": "Hanan Zamalin"
+}, {
+  "id": 49,
+  "severity": "minor",
+  "status": "massa",
+  "asignee": "Tomer Morad"
+}, {
+  "id": 100,
+  "severity": "minor",
+  "status": "turpis",
+  "asignee": "Haim Ben-Zaken"
+}, {
+  "id": 31,
+  "severity": "minor",
+  "status": "fringilla",
+  "asignee": "Haim Ben-Zaken"
+}]
