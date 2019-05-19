@@ -26,7 +26,6 @@ export default function SideBar() {
           </li>
           <li class="sub-menu">
             <a href="javascript:;" class="">
-              <i class="icon_document_alt" /> -->
               <span>King's Landing</span>
             </a>
           </li>
