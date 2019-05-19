@@ -1,0 +1,306 @@
+
+{
+  "defects":[
+    {
+      "issueId": 22222,
+      "summary": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+      "severity": "critical",
+      "status": "fixed"
+    },
+    {
+      "issueId": 33865,
+      "summary": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+      "severity": "high",
+      "status": "fixed"
+    },
+    {
+      "issueId": 72255,
+      "summary": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "severity": "medium",
+      "status": "open"
+    },
+    {
+      "issueId": 61805,
+      "summary": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "severity": "low",
+      "status": "open"
+    },
+    {
+      "issueId": 36503,
+      "summary": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+      "severity": "low",
+      "status": "assigned"
+    },
+    {
+      "issueId": 92857,
+      "summary": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+      "severity": "medium",
+      "status": "new"
+    },
+    {
+      "issueId": 17542,
+      "summary": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+      "severity": "medium",
+      "status": "new"
+    },
+    {
+      "issueId": 77989,
+      "summary": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+      "severity": "high",
+      "status": "open"
+    },
+    {
+      "issueId": 47236,
+      "summary": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+      "severity": "critical",
+      "status": "open"
+    },
+    {
+      "issueId": 79664,
+      "summary": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+      "severity": "high",
+      "status": "rfst"
+    }
+  ],
+  "sonar":[
+            {
+              "id": 30,
+              "severity": "minor",
+              "status": "ante",
+              "asignee": "Snir Dahan"
+            },
+            {
+              "id": 53,
+              "severity": "minor",
+              "status": "et",
+              "asignee": "Snir Dahan"
+            },
+            {
+              "id": 21,
+              "severity": "critical",
+              "status": "a",
+              "asignee": "Sivan Cohen"
+            },
+            {
+              "id": 56,
+              "severity": "major",
+              "status": "sit",
+              "asignee": "Snir Dahan"
+            },
+            {
+              "id": 55,
+              "severity": "blocker",
+              "status": "aliquam",
+              "asignee": "Snir Dahan"
+            },
+            {
+              "id": 94,
+              "severity": "minor",
+              "status": "consequat",
+              "asignee": "Alex Nekrasov"
+            },
+            {
+              "id": 55,
+              "severity": "minor",
+              "status": "rutrum",
+              "asignee": "Hanan Zamalin"
+            },
+            {
+              "id": 49,
+              "severity": "minor",
+              "status": "massa",
+              "asignee": "Tomer Morad"
+            },
+            {
+              "id": 100,
+              "severity": "minor",
+              "status": "turpis",
+              "asignee": "Haim Ben-Zaken"
+            },
+            {
+              "id": 31,
+              "severity": "minor",
+              "status": "fringilla",
+              "asignee": "Haim Ben-Zaken"
+            }
+          ],
+          "teams":[
+                    {
+                      "id": 1,
+                      "teamleader": "Eli De Paz",
+                      "members": [
+                        {
+                          "id": 744914,
+                          "fullname": "Michael Lochinov",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 486759,
+                          "fullname": "Idan Davidi",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Germany"
+                        },
+                        {
+                          "id": 700220,
+                          "fullname": "Robert Dvir",
+                          "role": "Developer Specialist",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 825863,
+                          "fullname": "Alex Shevchenko",
+                          "role": "Developer Specialist",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 237652,
+                          "fullname": "Haim Ben-Zaken",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 2,
+                      "teamleader": "Nimrod Snapir",
+                      "members": [
+                        {
+                          "id": 790528,
+                          "fullname": "Tomer Morad",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 242692,
+                          "fullname": "Adi Twito",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 626807,
+                          "fullname": "Sivan Cohen",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 288324,
+                          "fullname": "Alex Nekrasov",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 237652,
+                          "fullname": "Hanan Zamalin",
+                          "role": "Developer Specialist",
+                          "task": "",
+                          "location": "Israel"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 3,
+                      "teamleader": "Benyamin Peleg",
+                      "members": [
+                        {
+                          "id": 850683,
+                          "fullname": "Inara Kadirbekov",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 334836,
+                          "fullname": "Snir Dahan",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 513727,
+                          "fullname": "Anat Erez",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Spain"
+                        },
+                        {
+                          "id": 888724,
+                          "fullname": "Dmtry Grayenski",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Russia"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 4,
+                      "teamleader": "Aditi Kulkarni",
+                      "members": [
+                        {
+                          "id": 464998,
+                          "fullname": "Aishwary Tiwari",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 478719,
+                          "fullname": "Arun Aggarwal",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 251020,
+                          "fullname": "Kaushal Jha",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 620346,
+                          "fullname": "Sagar Bhosale",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 5,
+                      "teamleader": "Jayesh Kapopara",
+                      "members": [
+                        {
+                          "id": 464998,
+                          "fullname": "Ayush Maheshwari",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 478719,
+                          "fullname": "Kritika Singla",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        },
+                        {
+                          "id": 251020,
+                          "fullname": "Sumeet Wathore",
+                          "role": "Developer",
+                          "task": "",
+                          "location": "Israel"
+                        }
+                      ]
+                    }
+                  ]
+}
